@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApiTvShowMVVM</string>
+    <string name="title_shows_most_popular">TV SHOWS | MOST POPULAR</string>
+    <string name="read_more">Read More</string>
+    <string name="u2022">•</string>
+    <string name="website">Website</string>
+    <string name="episodes">Episodes</string>
+    <string name="search_tv_show">search tv show</string>
+</resources>
